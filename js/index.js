@@ -1,7 +1,7 @@
 let items = [];
 
 async function loadItems() {
-    const response = await fetch('/items.json');
+    const response = await fetch('/js/items.json');
     const data = await response.json();
     items = data.items;
     displayItems(items);
