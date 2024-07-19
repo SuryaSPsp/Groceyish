@@ -1,0 +1,101 @@
+{
+    "items": [
+      {
+        "image":"/images/img/redish.jpg",
+        "type": "Vegetables", 
+        "name": "Redish",
+        "weight": "500g",
+        "cost":2,
+        "offer":3.99
+      },
+      {
+        "image":"/images/img/potato.jpg",
+        "type": "Vegetables", 
+        "name": "Potatos",
+        "weight": "1kg",
+        "cost":1,
+        "offer":1.99
+      },
+      {
+        "image":"/images/img/tomato.jpg",
+        "type": "Vegetables", 
+        "name": "Tomato",
+        "weight": "200g",
+        "cost":0.30,
+        "offer":0.99
+      },
+      {
+        "image":"/images/img/broccoli.jpg",
+        "type": "Vegetables", 
+        "name": "Broccolli",
+        "weight": "1kg",
+        "cost":1.50,
+        "offer":2.99
+      },
+      {
+        "image":"/images/img/beans.jpg",
+        "type": "Vegetables", 
+        "name": "Green Beans",
+        "weight": "250g",
+        "cost":1,
+        "offer":1.99
+      },
+      {
+        "image":"/images/img/onion.jpg",
+        "type": "Vegetables", 
+        "name": "Onion",
+        "weight": "1kg",
+        "cost":0.99,
+        "offer":1.99
+      },
+      {
+        "image":"/images/img/orange.jpg",
+        "type": "Fruits", 
+        "name": "Orange",
+        "weight": "500g",
+        "cost":2,
+        "offer":3.59
+      },
+      {
+        "image":"/images/img/apple.jpg",
+        "type": "Fruits", 
+        "name": "Apple",
+        "weight": "1kg",
+        "cost":3,
+        "offer":4.59
+      },
+      {
+        "image":"/images/img/carrot.jpg",
+        "type": "Vegetables", 
+        "name": "Carrot",
+        "weight": "500g",
+        "cost":1,
+        "offer":1.99
+      },
+      {
+        "image":"/images/img/kirai.jpg",
+        "type": "Vegetables", 
+        "name": "Kirai",
+        "weight": "1kg",
+        "cost":2,
+        "offer":2.99
+      },
+      {
+        "image":"/images/img/strawberry.jpg",
+        "type": "Fruits", 
+        "name": "Strawberry",
+        "weight": "500g",
+        "cost":2.55,
+        "offer":3.99
+      },
+      {
+        "image":"/images/img/Persimmon.jpg",
+        "type": "Fruits", 
+        "name": "Persimmon",
+        "weight": "1kg",
+        "cost":2.45,
+        "offer":3.99
+      }
+    ]
+}
+  
